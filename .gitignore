@@ -1,3 +1,6 @@
+# Kernel
+*.img
+
 # Prerequisites
 *.d
 
